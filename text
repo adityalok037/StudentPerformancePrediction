@@ -43,5 +43,20 @@ b.requirements.txt
 c.setup.py
 
 2.src folder and build the packages   to add on git use git add .
+check the status git status  
+commit it   git commit -m "Add setup.py, requirements.txt, and src/__init__.py"
 
+to push the main branch use   git push -u origin main
+
+
+create the component folder and make the files init data ingestion data transformation
+
+we will also create the pipline folder what types of pipline we need 
+mainly two use training and prediction pipline and init.py as wee
+
+now create the three main folder
+for login
+exception
+utils.py // funcationlity that i am probaly writing in a comman way which wil use in entire application
+like  to read the dataset from data base,  create the mongodbclient, to save the model into the clients
 
