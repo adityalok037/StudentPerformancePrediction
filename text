@@ -60,3 +60,8 @@ exception
 utils.py // funcationlity that i am probaly writing in a comman way which wil use in entire application
 like  to read the dataset from data base,  create the mongodbclient, to save the model into the clients
 
+
+we will do work of data ingestion so that we can transform the data
+after data ingestion aftifacs will created on executing the data ignestion file 
+
+and then upload to git hub
