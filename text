@@ -69,3 +69,11 @@ and then upload to git hub
 
 now we will do dATA TRANSFORMATION
 after this we willl work for model trainer.py and past some code to utilpy evalute function
+
+here in artifacts model preocessor pkl file and catboost_info created on running the programm
+
+
+
+
+ when we use hyper parameter then there is generation of value which taeks time to execute
+ we can use hyper parameter after model tranier
