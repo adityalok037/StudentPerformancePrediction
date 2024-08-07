@@ -77,3 +77,28 @@ here in artifacts model preocessor pkl file and catboost_info created on running
 
  when we use hyper parameter then there is generation of value which taeks time to execute
  we can use hyper parameter after model tranier
+ then use perfrom hyper parameter training  tuning to get best model
+
+
+
+ now we are creating the pipeline using flask web app  
+ creating the web application for interaction with these data pkl files  
+ we have a form   where have  all input  data  that help to predict student performance and that data capture data
+
+
+ create the app.py  import pkl flask
+
+ we will use predict pipeline 
+  while we create the app.py 
+  and templates where index and home html will created
+  
+
+  now after that all set we will run and take output
+
+
+  after that we will deployment it on the git hub
+
+
+  we need to configuration to deployment of the project that is elastic bin stalk   create .ebextension and python.config  this is  mainly to tell elastic bin stock instance saying that entry point of the application
+
+  create the application.py file which is same as app.py copy its to code to application fro only deployment purpose
