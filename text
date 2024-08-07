@@ -102,3 +102,12 @@ here in artifacts model preocessor pkl file and catboost_info created on running
   we need to configuration to deployment of the project that is elastic bin stalk   create .ebextension and python.config  this is  mainly to tell elastic bin stock instance saying that entry point of the application
 
   create the application.py file which is same as app.py copy its to code to application fro only deployment purpose
+
+  now after that follow the aws steps   we are using elastic ben stalk
+  go signup  search elasticbin stalk
+  create a new application  this is a instance  it only req confg. use git huub repo 
+  to deployed from git to elastic benstalk a linux apppli create use codepipe line  it a continous deliverying pipiline that will continue monitoring the changegs in the code in git hub 
+
+  elastic envoronment wil created after filling details like application name and other
+
+  now we will create the code pipe line in aws  and search code pipe line that is continious delevering
